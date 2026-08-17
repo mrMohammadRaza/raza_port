@@ -1,0 +1,281 @@
+{
+  "profile": {
+    "fullName": "MOHAMMAD RAZA SALIM SHEIKH",
+    "title": "Computer Science Engineering Student",
+    "headline": "Passionate and motivated Computer Science Engineering student with strong skills in full stack web development, IoT, AI tools, data analytics, and problem solving. Eager to learn, build real world solutions, and contribute to impactful projects.",
+    "about": "I am a Computer Science Engineering student currently pursuing B.Tech at Suryodaya College of Engineering & Technology. With a solid foundation in coding languages (Python, Java, C++, C), MERN full-stack development, database management, and embedded IoT systems (ESP32/ESP8266), I specialize in building practical, scalable software and civic-tech applications. Experienced in collaborative hackathons and corporate job simulations on Forage (Deloitte, Tata, Vista Equity Partners).",
+    "email": "razasheikh092007@gmail.com",
+    "location": "Gondia / Nagpur, Maharashtra, India",
+    "linkedin": "https://linkedin.com/in/mohammad-raza-sheikh-6a187a3a4",
+    "github": "https://github.com/WorkWithMohammad",
+    "resumeUrl": "/uploads/Mohammad_Raza_Resume.pdf",
+    "avatarUrl": "/uploads/profile.jpg"
+  },
+  "skills": [
+    { "id": "sk-1", "name": "C", "category": "Coding Languages", "level": 85, "published": true, "order": 1 },
+    { "id": "sk-2", "name": "C++", "category": "Coding Languages", "level": 85, "published": true, "order": 2 },
+    { "id": "sk-3", "name": "Python", "category": "Coding Languages", "level": 90, "published": true, "order": 3 },
+    { "id": "sk-4", "name": "Java", "category": "Coding Languages", "level": 82, "published": true, "order": 4 },
+    
+    { "id": "sk-5", "name": "HTML", "category": "Web Development", "level": 95, "published": true, "order": 5 },
+    { "id": "sk-6", "name": "CSS", "category": "Web Development", "level": 92, "published": true, "order": 6 },
+    { "id": "sk-7", "name": "React.js", "category": "Web Development", "level": 90, "published": true, "order": 7 },
+    { "id": "sk-8", "name": "Node.js", "category": "Web Development", "level": 88, "published": true, "order": 8 },
+    { "id": "sk-9", "name": "Express.js", "category": "Web Development", "level": 85, "published": true, "order": 9 },
+    
+    { "id": "sk-10", "name": "MySQL", "category": "Database", "level": 82, "published": true, "order": 10 },
+    { "id": "sk-11", "name": "MongoDB", "category": "Database", "level": 88, "published": true, "order": 11 },
+    { "id": "sk-12", "name": "phpMyAdmin", "category": "Database", "level": 80, "published": true, "order": 12 },
+    
+    { "id": "sk-13", "name": "Git", "category": "Tools & Technologies", "level": 90, "published": true, "order": 13 },
+    { "id": "sk-14", "name": "GitHub", "category": "Tools & Technologies", "level": 92, "published": true, "order": 14 },
+    { "id": "sk-15", "name": "VS Code", "category": "Tools & Technologies", "level": 95, "published": true, "order": 15 },
+    { "id": "sk-16", "name": "Arduino IDE", "category": "Tools & Technologies", "level": 88, "published": true, "order": 16 },
+    { "id": "sk-17", "name": "Figma", "category": "Tools & Technologies", "level": 80, "published": true, "order": 17 },
+    { "id": "sk-18", "name": "Canva", "category": "Tools & Technologies", "level": 85, "published": true, "order": 18 },
+    { "id": "sk-19", "name": "Firebase", "category": "Tools & Technologies", "level": 82, "published": true, "order": 19 },
+    
+    { "id": "sk-20", "name": "ESP8266", "category": "IoT", "level": 88, "published": true, "order": 20 },
+    { "id": "sk-21", "name": "ESP32", "category": "IoT", "level": 92, "published": true, "order": 21 },
+    { "id": "sk-22", "name": "Arduino", "category": "IoT", "level": 90, "published": true, "order": 22 },
+    { "id": "sk-23", "name": "MQTT", "category": "IoT", "level": 85, "published": true, "order": 23 },
+    { "id": "sk-24", "name": "Cloud Connectivity", "category": "IoT", "level": 84, "published": true, "order": 24 },
+    
+    { "id": "sk-25", "name": "Cybersecurity Basics", "category": "Other Areas", "level": 78, "published": true, "order": 25 },
+    { "id": "sk-26", "name": "Prompt Engineering", "category": "Other Areas", "level": 90, "published": true, "order": 26 },
+    { "id": "sk-27", "name": "REST APIs", "category": "Other Areas", "level": 92, "published": true, "order": 27 },
+    { "id": "sk-28", "name": "Data Analytics", "category": "Other Areas", "level": 85, "published": true, "order": 28 }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Smart Construction Management System (Web)",
+      "subtitle": "Team Project (Hackathon)",
+      "description": "Developed a web platform to streamline construction monitoring and complaint management for citizens.",
+      "detailedDescription": "Designed and engineered an interactive web application for civic complaints and construction oversight. Implemented role-based dashboards for citizens, contractors, and government officials. Features real-time complaint submission with photo/file attachments, status tracking, automated alerts, and analytical monitoring panels.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.IO"],
+      "githubUrl": "https://github.com/WorkWithMohammad",
+      "liveUrl": "",
+      "badge": "Team Project (Hackathon)",
+      "published": true,
+      "featured": true,
+      "order": 1,
+      "image": "/uploads/project-construction.png",
+      "createdAt": "2025"
+    },
+    {
+      "id": "proj-2",
+      "title": "Portfolio Website",
+      "subtitle": "Personal Project",
+      "description": "Built a responsive portfolio website to showcase my skills, projects, and achievements.",
+      "detailedDescription": "A recruiter-friendly developer portfolio featuring dynamic section filtering, interactive project detail modals, dark glassmorphism styling, and a private content management dashboard to manage skills, projects, certifications, and uploaded resume files.",
+      "technologies": ["HTML", "CSS", "Java", "React.js", "Node.js"],
+      "githubUrl": "https://github.com/WorkWithMohammad",
+      "liveUrl": "",
+      "badge": "Personal Project",
+      "published": true,
+      "featured": true,
+      "order": 2,
+      "image": "/uploads/project-portfolio.png",
+      "createdAt": "2025"
+    },
+    {
+      "id": "proj-3",
+      "title": "Smart Home Automation System",
+      "subtitle": "Personal Project",
+      "description": "Developed an IoT based system to control home appliances using ESP32 and Blynk app.",
+      "detailedDescription": "Engineered an embedded hardware and cloud control system allowing remote control of home electrical appliances. Integrated ESP32 microcontroller with relay modules, sensor feedback, Wi-Fi networking, and custom Blynk smartphone dashboard interfaces.",
+      "technologies": ["ESP32", "Blynk", "Arduino IDE", "C++", "Wi-Fi"],
+      "githubUrl": "https://github.com/WorkWithMohammad",
+      "liveUrl": "",
+      "badge": "Personal Project",
+      "published": true,
+      "featured": true,
+      "order": 3,
+      "image": "/uploads/project-iot.png",
+      "createdAt": "2024"
+    },
+    {
+      "id": "proj-4",
+      "title": "Task Manager Web Application",
+      "subtitle": "Personal Project",
+      "description": "Built a full stack task manager to add, update, delete and manage daily tasks.",
+      "detailedDescription": "Full stack task management application enabling users to organize daily responsibilities into custom categories, set deadlines, mark completion status, and filter pending vs completed tasks with backend MongoDB persistence.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB"],
+      "githubUrl": "https://github.com/WorkWithMohammad",
+      "liveUrl": "",
+      "badge": "Personal Project",
+      "published": true,
+      "featured": false,
+      "order": 4,
+      "image": "/uploads/project-taskmanager.png",
+      "createdAt": "2024"
+    },
+    {
+      "id": "proj-5",
+      "title": "Weather Dashboard",
+      "subtitle": "Personal Project",
+      "description": "Built a weather dashboard that shows real-time weather information of any city.",
+      "detailedDescription": "Interactive weather tracking platform integrating OpenWeatherMap REST API to fetch live meteorological data including temperature, humidity, atmospheric pressure, wind speed, and weather condition forecasts with responsive visual UI.",
+      "technologies": ["HTML", "CSS", "JavaScript", "OpenWeatherMap API"],
+      "githubUrl": "https://github.com/WorkWithMohammad",
+      "liveUrl": "",
+      "badge": "Personal Project",
+      "published": true,
+      "featured": false,
+      "order": 5,
+      "image": "/uploads/project-weather.png",
+      "createdAt": "2024"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor of Technology (B.Tech) – Software Engineering",
+      "institution": "Suryodaya College of Engineering & Technology",
+      "location": "Nagpur, Maharashtra",
+      "period": "2025 – Present",
+      "description": "Currently pursuing degree in Software Engineering with focus on Full-Stack Development, Data Structures, Algorithms, Software Architecture, and Embedded IoT Systems.",
+      "published": true,
+      "order": 1
+    },
+    {
+      "id": "edu-2",
+      "degree": "Higher Secondary Certificate (Class XII)",
+      "institution": "Progressive Science Junior College",
+      "location": "Maharashtra",
+      "period": "2023 – 2025",
+      "description": "Completed Higher Secondary education with a science background (Physics, Chemistry, Mathematics).",
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "edu-3",
+      "degree": "Secondary School Certificate (Class X)",
+      "institution": "Chitransh Academy, Gondia",
+      "location": "Gondia, Maharashtra",
+      "period": "2022 – 2023",
+      "description": "Completed Secondary School Certificate education with distinction in mathematics and science subjects.",
+      "published": true,
+      "order": 3
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "organization": "Deloitte (Forage Virtual Internship)",
+      "position": "Data Analytics & Cybersecurity Job Simulation",
+      "period": "2024",
+      "description": "Completed virtual job simulations analyzing datasets, designing dashboard metrics, identifying security vulnerabilities, and creating structured reports.",
+      "responsibilities": [
+        "Analyzed business data and presented insights using data analytics frameworks",
+        "Assessed potential cybersecurity threat vectors and recommended remediation steps",
+        "Completed hands-on practical tasks designed by industry leaders at Deloitte"
+      ],
+      "technologies": ["Data Analytics", "Cybersecurity", "Data Visualization", "Python"],
+      "published": true,
+      "order": 1
+    },
+    {
+      "id": "exp-2",
+      "organization": "Tata (Forage Job Simulation)",
+      "position": "Data Visualization Job Simulation",
+      "period": "2024",
+      "description": "Executed executive-level data visualization scenarios to communicate business performance metrics.",
+      "responsibilities": [
+        "Formulated key performance indicators and interactive data visual charts for leadership decision-making",
+        "Structured data cleaning workflows to handle raw datasets effectively"
+      ],
+      "technologies": ["Data Visualization", "Data Analytics"],
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "exp-3",
+      "organization": "Vista Equity Partners (Forage)",
+      "position": "AI in Action Job Simulation",
+      "period": "2024",
+      "description": "Participated in practical AI workflow simulations implementing artificial intelligence and prompt engineering solutions.",
+      "responsibilities": [
+        "Explored LLM applications, prompt optimization strategies, and practical AI implementations for enterprise software solutions"
+      ],
+      "technologies": ["AI Tools", "Prompt Engineering", "Python"],
+      "published": true,
+      "order": 3
+    }
+  ],
+  "certifications": [
+    { "id": "cert-1", "title": "AI in Action", "issuer": "Vista Equity Partners (Forage)", "date": "2024", "credentialUrl": "https://www.theforage.com/", "published": true, "order": 1 },
+    { "id": "cert-2", "title": "Data Analytics Job Simulation", "issuer": "Deloitte (Forage)", "date": "2024", "credentialUrl": "https://www.theforage.com/", "published": true, "order": 2 },
+    { "id": "cert-3", "title": "Data Visualization", "issuer": "Tata (Forage)", "date": "2024", "credentialUrl": "https://www.theforage.com/", "published": true, "order": 3 },
+    { "id": "cert-4", "title": "Virtual Internship", "issuer": "Deloitte (Forage)", "date": "2024", "credentialUrl": "https://www.theforage.com/", "published": true, "order": 4 },
+    { "id": "cert-5", "title": "Cybersecurity Job Simulation", "issuer": "Deloitte (Forage)", "date": "2024", "credentialUrl": "https://www.theforage.com/", "published": true, "order": 5 },
+    { "id": "cert-6", "title": "Data Analytics Essentials", "issuer": "Cisco", "date": "2024", "credentialUrl": "https://www.netacad.com/", "published": true, "order": 6 },
+    { "id": "cert-7", "title": "Python Basics", "issuer": "HackerRank", "date": "2024", "credentialUrl": "https://www.hackerrank.com/certificates/", "published": true, "order": 7 },
+    { "id": "cert-8", "title": "Problem Solving (Basic)", "issuer": "HackerRank", "date": "2024", "credentialUrl": "https://www.hackerrank.com/certificates/", "published": true, "order": 8 }
+  ],
+  "hackathons": [
+    {
+      "id": "hack-1",
+      "title": "NIT Nagpur Hackathon",
+      "organizer": "Nagpur Institute of Technology",
+      "teamName": "AuraTechRebels",
+      "project": "Smart Construction Management System",
+      "result": "Participant & Project Finalist",
+      "description": "Collaborated with team AuraTechRebels to engineer a full-stack civic monitoring platform aimed at citizen complaint resolution and construction oversight.",
+      "published": true,
+      "order": 1
+    }
+  ],
+  "achievements": [
+    { "id": "ach-1", "title": "Participated in Hackathon at NIT Nagpur", "description": "Competed with team AuraTechRebels showcasing the Smart Construction Management System.", "published": true, "order": 1 },
+    { "id": "ach-2", "title": "Completed Multiple Corporate Virtual Internships", "description": "Successfully finished simulations on Forage platform hosted by Deloitte, Tata, and Vista Equity Partners.", "published": true, "order": 2 },
+    { "id": "ach-3", "title": "Continuous Upskilling in AI & IoT", "description": "Consistently learning and building applications integrating generative AI tools, cloud connected ESP32 microcontrollers, and modern MERN web stacks.", "published": true, "order": 3 },
+    { "id": "ach-4", "title": "HackerRank Certified Developer", "description": "Earned certifications in Python Basics and Algorithmic Problem Solving on HackerRank.", "published": true, "order": 4 }
+  ],
+  "softSkills": [
+    "Problem Solving",
+    "Time Management",
+    "Teamwork & Collaboration",
+    "Communication",
+    "Adaptability",
+    "Punctuality & Discipline",
+    "Hardworking & Honest"
+  ],
+  "languages": [
+    { "language": "English", "proficiency": "Fluent" },
+    { "language": "Hindi", "proficiency": "Fluent" },
+    { "language": "Urdu", "proficiency": "Conversational" }
+  ],
+  "interests": [
+    "Coding",
+    "IoT",
+    "AI Tools",
+    "Cybersecurity",
+    "Reading Tech Blogs",
+    "Exploring New Tech",
+    "Hackathons",
+    "Data Analytics"
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "name": "Recruiter Team",
+      "email": "recruiter@techcompany.com",
+      "subject": "Software Engineering Internship Opportunity",
+      "message": "Hi Mohammad Raza, we were impressed by your Smart Construction Management project and IoT home automation build. We would love to discuss an internship role with our engineering team.",
+      "read": false,
+      "createdAt": "2026-08-17T18:00:00Z"
+    }
+  ],
+  "settings": {
+    "siteTitle": "Mohammad Raza | Software Engineer & Full-Stack Developer",
+    "metaDescription": "Official personal portfolio of Mohammad Raza Salim Sheikh - Computer Science Engineering Student specializing in Full Stack Web Development, IoT Systems, AI tools, and Data Analytics.",
+    "tagline": "Passionate Computer Science Engineering student building high-impact web apps & IoT solutions.",
+    "allowContactForm": true,
+    "adminEmail": "razasheikh092007@gmail.com"
+  },
+  "activityLogs": [
+    { "id": "log-1", "action": "Portfolio dataset initialized with resume data", "timestamp": "2026-08-17T21:00:00Z" }
+  ]
+}
