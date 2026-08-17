@@ -6,9 +6,9 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   const unreadMessagesCount = (db.messages || []).filter(m => !m.read).length;
 
   return (
-    <div className="min-h-screen bg-[#070a10] text-slate-100 flex">
+    <div className="min-h-screen bg-[#070a10] text-slate-100 flex flex-col lg:flex-row">
       <Sidebar unreadMessagesCount={unreadMessagesCount} />
-      <div className="flex-1 flex flex-col min-w-0">
+      <div className="flex-1 flex flex-col min-w-0 w-full overflow-x-hidden">
         {children}
       </div>
     </div>
